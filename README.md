@@ -1,2 +1,2 @@
-# disparos_NY
-Aplicación sobre la frecuencia de disparos NY
+# shoot_NY
+Shooting in New York
